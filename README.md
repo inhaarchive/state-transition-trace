@@ -12,3 +12,20 @@ Current and authoritative definitions are archived via OSF.
 
 ## Official archive
 https://doi.org/10.17605/OSF.IO/5T9ZH
+
+POF functions as an independent observational frame
+rather than a theory-bound explanatory system.
+
+---
+
+## Influences and Prior Work
+
+The formulation of the distribution change descriptor (**Δφ**) in this frame
+was informed by conceptual reasoning from the following project:
+
+- **sofience / operor_package_project**  
+  https://github.com/sofience/operor_package_project
+
+This reference is included solely to preserve transparent conceptual lineage.
+It does not introduce interpretive claims, causal explanations,
+or modifications to the core definition of the Post-Optimization Observational Frame.
